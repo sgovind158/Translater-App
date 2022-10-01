@@ -6,5 +6,6 @@
 - HTML
 - CSS
 - JavaScript
+- LibreTranslate
 
 # <img src="https://github.com/sgovind158/WheaterApp/blob/main/image/translaterApp.png?raw=true" alt="">
